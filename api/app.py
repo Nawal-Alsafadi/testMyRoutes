@@ -1,7 +1,7 @@
 from flask import Flask
 from flask_cors import CORS
 
-from api.routes.appRoutes import app_routes
+from routes.appRoutes import app_routes
 
 app = Flask(__name__)
 app.debug = True
