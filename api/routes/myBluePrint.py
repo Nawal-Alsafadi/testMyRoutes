@@ -1,7 +1,7 @@
 from flask import Blueprint
 
-from api.models.myModels import getString
-from api.models.myModels import getString2
+from models.myModels import getString
+from models.myModels import getString2
 
 
 
