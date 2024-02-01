@@ -1,7 +1,7 @@
 Flask==2.2.2
 Werkzeug==2.2.2
 Flask-Cors==3.0.10
-
+numpy
 texthero==1.1.0
 tensorflow==2.12.0
 
